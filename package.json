@@ -1,0 +1,20 @@
+{
+  "name": "nodeteste",
+  "version": "1.0.0",
+  "description": "testeOne",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node testeone.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ExiaEarth/DemoNOTE.git"
+  },
+  "author": "Marc Lemer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ExiaEarth/DemoNOTE/issues"
+  },
+  "homepage": "https://github.com/ExiaEarth/DemoNOTE#readme"
+}
